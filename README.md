@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hola, soy Diland 👋<br>Soy un joven programador de 19 años de Colombia, apasionado por la tecnología y siempre en busca de nuevos retos para aprender y sobresalir en el mundo del desarrollo. Durante mi carrera en Ingeniería en Sistemas, he adquirido experiencia en diversas áreas, desde programación orientada a objetos en Java y C#, hasta desarrollo web con Node.js y Spring Boot.<br><br>He trabajado en proyectos que involucran desde la interacción entre hardware y software, como mi proyecto de un electrocardiograma básico usando Arduino y C#, hasta el desarrollo de aplicaciones web con funcionalidades CRUD y autenticación de usuarios. También tengo experiencia en el manejo de bases de datos, diseño de arquitecturas en capas, y colaboración en equipos utilizando Git y GitHub.<br><br>Siempre estoy dispuesto a aprender nuevas tecnologías y expandir mis conocimientos. Actualmente me estoy especializando en el desarrollo backend con Spring Boot, buscando fortalecer mi perfil profesional y prepararme para proyectos más complejos y desafiantes. Si tienes un proyecto interesante o simplemente deseas conectar, ¡no dudes en escribirme!
+# ¡Hola! Soy Diland 👋
+
+Soy **Desarrollador de Software** e Ingeniero de Sistemas en formación, apasionado por crear soluciones tecnológicas que generen impacto y aporten valor a las personas. Disfruto desarrollar aplicaciones web y móviles, resolver problemas complejos y aprender constantemente nuevas tecnologías y buenas prácticas de ingeniería de software.
+
+A lo largo de mi formación y experiencia profesional he participado en el desarrollo de proyectos utilizando tecnologías como **Java, Spring Boot, TypeScript, NestJS, Flutter, Dart, PostgreSQL, Firebase, Prisma ORM y REST APIs**, trabajando tanto en frontend como en backend y colaborando en equipos mediante metodologías ágiles y control de versiones con Git.
+
+Me interesa construir software limpio, escalable y mantenible, entendiendo primero las necesidades del problema para desarrollar soluciones de calidad. Además, disfruto enfrentar nuevos retos técnicos, explorar diferentes arquitecturas y seguir fortaleciendo mis conocimientos en áreas como **cloud computing, inteligencia artificial, arquitectura de software y desarrollo de aplicaciones**.
+
+## 🚀 Tecnologías
+
+* **Lenguajes:** Java, TypeScript, Dart, Python y C#
+* **Backend:** Spring Boot, NestJS, Node.js y Express
+* **Frontend:** Angular y React
+* **Desarrollo móvil:** Flutter
+* **Bases de datos:** PostgreSQL, MySQL y Firebase
+* **Herramientas:** Git, GitHub, Docker, Prisma ORM y Postman
+
+Siempre estoy abierto a aprender, colaborar en nuevos proyectos y seguir creciendo como desarrollador. Si quieres conocer más sobre mi trabajo o conectar conmigo, ¡será un gusto!
 
 
 ## 🌐 Socials:
